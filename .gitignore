@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Локальная модель (весит ~500МБ, GitHub заблокирует пуш)
+local_model/
+
+# Секреты и IDE
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
