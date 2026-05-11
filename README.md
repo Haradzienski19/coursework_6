@@ -7,12 +7,8 @@
 * Интернет-соединение (для первой загрузки NLP-модели)
 
 ## Как запустить
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/mf-git/my-diplom.git
-   cd my-diplom
-
-   Запустите единожды local_model.py
-   запускайте server.py
-   переходите на http://localhost:3000
+1. Клонируйте репозиторий
+2. Запустите единожды local_model.py
+3. запускайте server.py
+4. переходите на http://localhost:3000
    Готово!
